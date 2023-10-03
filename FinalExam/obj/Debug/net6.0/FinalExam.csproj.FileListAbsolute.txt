@@ -1,0 +1,15 @@
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\bin\Debug\net6.0\FinalExam.exe
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\bin\Debug\net6.0\FinalExam.deps.json
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\bin\Debug\net6.0\FinalExam.runtimeconfig.json
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\bin\Debug\net6.0\FinalExam.dll
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\bin\Debug\net6.0\FinalExam.pdb
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\obj\Debug\net6.0\FinalExam.csproj.AssemblyReference.cache
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\obj\Debug\net6.0\FinalExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\obj\Debug\net6.0\FinalExam.AssemblyInfoInputs.cache
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\obj\Debug\net6.0\FinalExam.AssemblyInfo.cs
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\obj\Debug\net6.0\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\obj\Debug\net6.0\FinalExam.dll
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\obj\Debug\net6.0\refint\FinalExam.dll
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\obj\Debug\net6.0\FinalExam.pdb
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\obj\Debug\net6.0\FinalExam.genruntimeconfig.cache
+C:\Users\mrfed\OneDrive\Рабочий стол\FT\FinalExam\obj\Debug\net6.0\ref\FinalExam.dll
